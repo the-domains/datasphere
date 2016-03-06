@@ -5,22 +5,25 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: Jibber Jabber about my aims...
-datePublished: '2015-11-09T12:07:36.848Z'
-dateModified: '2015-11-09T12:07:16.210Z'
+description: Jibber Jabber about my aims... Now with added Logo to try and key on to some colours...
+datePublished: '2016-03-06T20:08:20.848Z'
+dateModified: '2016-03-06T20:07:43.836Z'
 title: Manifesto
+sourcePath: _posts/2015-11-09-manifesto.md
+published: true
+author: []
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2015-11-09-manifesto.md
-published: true
 url: manifesto/index.html
 _type: Article
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3f924ae7-500b-459c-bcbe-6ab79022921e.png)
+
 Many small and medium business owners have complex IT needs but lack a budget for dedicated IT staff.
 
 Datasphere IT aims to provide a number of services to it's clients that fulfill this niche requirement.
