@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: Jibber Jabber about my aims... Now with added Logo to try and key on to some colours...
-datePublished: '2016-03-07T00:48:18.262Z'
-dateModified: '2016-03-07T00:44:20.511Z'
+datePublished: '2016-03-07T00:48:42.182Z'
+dateModified: '2016-03-07T00:48:31.262Z'
 title: Manifesto
 sourcePath: _posts/2015-11-09-manifesto.md
 published: true
