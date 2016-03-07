@@ -1,7 +1,7 @@
 name: DataSphere
 favicon: null
-layout_spectrum: 0.36725
-typography_spectrum: 0.88571
+layout_spectrum: 0.60446
+typography_spectrum: 0.48956
 title: DataSphere
 cta:
   domain: null
@@ -22,8 +22,8 @@ color:
     - '#31c0cf'
     - '#ffffff'
     - '#767b87'
-  brandStrength: 0.6875
+  brandStrength: 0.5
   lightness: 0.5
-  saturation: 0.3125
-  rhythmicContrast: 0.25
+  saturation: 0.5
+  rhythmicContrast: 0.5
 purpose: []
