@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: Jibber Jabber about my aims... Now with added Logo to try and key on to some colours...
-datePublished: '2016-03-07T00:48:42.182Z'
-dateModified: '2016-03-07T00:48:31.262Z'
+datePublished: '2016-03-07T02:50:22.791Z'
+dateModified: '2016-03-07T02:50:20.024Z'
 title: Manifesto
 sourcePath: _posts/2015-11-09-manifesto.md
 published: true
@@ -22,7 +22,7 @@ url: manifesto/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3f924ae7-500b-459c-bcbe-6ab79022921e.png)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/75c05e04-61ed-43b0-b48f-e18637c1134f.png)
 
 Many small and medium business owners have complex IT needs but lack a budget for dedicated IT staff.
 
