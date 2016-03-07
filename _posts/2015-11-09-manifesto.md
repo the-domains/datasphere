@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-03-07T04:32:46.613Z'
-dateModified: '2016-03-07T04:31:40.278Z'
+datePublished: '2016-03-07T04:33:59.828Z'
+dateModified: '2016-03-07T04:33:26.000Z'
 title: ''
 sourcePath: _posts/2015-11-09-manifesto.md
 published: true
