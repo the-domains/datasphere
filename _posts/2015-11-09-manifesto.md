@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Jibber Jabber about my aims... Now with added Logo to try and key on to some colours...
-datePublished: '2016-03-06T20:08:20.848Z'
-dateModified: '2016-03-06T20:07:43.836Z'
+datePublished: '2016-03-07T00:48:18.262Z'
+dateModified: '2016-03-07T00:44:20.511Z'
 title: Manifesto
 sourcePath: _posts/2015-11-09-manifesto.md
 published: true
