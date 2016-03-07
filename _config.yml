@@ -1,7 +1,7 @@
 name: DataSphere
 favicon: null
-layout_spectrum: 0.23994
-typography_spectrum: 0.47270896122790873
+layout_spectrum: 0.51174
+typography_spectrum: 0.88571
 title: DataSphere IT Services and Consultancy
 cta:
   domain: null
@@ -22,7 +22,7 @@ color:
     - '#31c0cf'
     - '#ffffff'
     - '#767b87'
-  brandStrength: 0.05286055197939277
+  brandStrength: 0.75
   lightness: 0.28056598734110594
   saturation: 0.4292207369580865
   rhythmicContrast: 0.5158662593457848
