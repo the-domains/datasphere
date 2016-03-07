@@ -5,10 +5,10 @@ inNav: false
 inLanguage: null
 starred: true
 keywords: []
-description: Jibber Jabber about my aims... Now with added Logo to try and key on to some colours...
-datePublished: '2016-03-07T04:31:24.161Z'
-dateModified: '2016-03-07T04:30:40.804Z'
-title: Manifesto
+description: ''
+datePublished: '2016-03-07T04:32:46.613Z'
+dateModified: '2016-03-07T04:31:40.278Z'
+title: ''
 sourcePath: _posts/2015-11-09-manifesto.md
 published: true
 author: []
