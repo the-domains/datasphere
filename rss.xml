@@ -4,32 +4,32 @@
         <description><![CDATA[DataSphere]]></description>
         <link>https://thegrid.ai/datasphere/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 07 Mar 2016 05:37:31 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 07 May 2016 04:57:57 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/datasphere/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[Software Defined What?]]></title>
+            <description><![CDATA[<p>I, for one, welcome the rise of the Infrastructure Endgame Machines</p>]]></description>
+            <link>http://www.theregister.co.uk/2015/08/05/infrastructure_end_game_machines</link>
+            <guid isPermaLink="false">e689aff4-5e0b-4c32-831a-b50bf806be4a</guid>
+            <pubDate>Sat, 07 May 2016 04:57:57 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[... Be Careful What You Buy ]]></title>
-            <description><![CDATA[<article><h1>... Be Careful What You Buy </h1><p>$17 smartwatch sends something to random Chinese IP address</p></article>]]></description>
+            <description><![CDATA[<p>$17 smartwatch sends something to random Chinese IP address</p>]]></description>
             <link>http://www.theregister.co.uk/2016/03/02/chinese_backdoor_found_in_ebays_popular_cheap_smart_watch/</link>
             <guid isPermaLink="false">e0c786bd-3d3a-43aa-a151-58910e4a0161</guid>
             <pubDate>Mon, 07 Mar 2016 04:29:43 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Internet of Anti-Security]]></title>
-            <description><![CDATA[<article><h1>Internet of Anti-Security</h1><p>Bruce Schneier: We're sleepwalking towards digital disaster and are too dumb to stop</p></article>]]></description>
+            <description><![CDATA[<p>Bruce Schneier: We're sleepwalking towards digital disaster and are too dumb to stop</p>]]></description>
             <link>http://www.theregister.co.uk/2016/03/02/sleepwalking_towards_digital_disaster/</link>
             <guid isPermaLink="false">b27265ca-9d89-4fe2-aa09-ebf8d1b055d6</guid>
             <pubDate>Mon, 07 Mar 2016 04:29:39 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Software Defined What?]]></title>
-            <description><![CDATA[<article><h1>Software Defined What?</h1><p>I, for one, welcome the rise of the Infrastructure Endgame Machines</p></article>]]></description>
-            <link>http://www.theregister.co.uk/2015/08/05/infrastructure_end_game_machines</link>
-            <guid isPermaLink="false">e689aff4-5e0b-4c32-831a-b50bf806be4a</guid>
-            <pubDate>Mon, 07 Mar 2016 04:29:34 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[aaand fight...]]></title>
-            <description><![CDATA[<article><h1>aaand fight...</h1><p>HPE targets Nutanix, squeezes into hyperconvergence suit</p></article>]]></description>
+            <description><![CDATA[<p>HPE targets Nutanix, squeezes into hyperconvergence suit</p>]]></description>
             <link>http://www.theregister.co.uk/2016/03/04/hpe_hyperconvergence_play_announced/</link>
             <guid isPermaLink="false">e1016628-1e09-400a-bbbc-6995243e708b</guid>
             <pubDate>Mon, 07 Mar 2016 01:37:50 GMT</pubDate>
