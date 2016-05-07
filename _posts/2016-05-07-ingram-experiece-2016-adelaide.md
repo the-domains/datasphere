@@ -5,10 +5,13 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'So this is a bit of free text, On Thursday I attended Ingram Experience 2016 in Adelaide.'
-datePublished: '2016-05-07T05:16:24.484Z'
-dateModified: '2016-05-07T05:16:11.638Z'
+datePublished: '2016-05-07T05:52:09.346Z'
+dateModified: '2016-05-07T05:23:15.056Z'
 title: ''
-author: []
+author:
+  - name: ''
+    url: ''
+sourcePath: _posts/2016-05-07-ingram-experiece-2016-adelaide.md
 authors: []
 publisher:
   name: null
@@ -16,12 +19,11 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-05-07-ingram-experiece-2016-adelaide.md
 url: ingram-experiece-2016-adelaide/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0d74342b-ee8f-40e8-8d73-715c10d528c3.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/442bcbefb6669cad6682b5a9bc186059fe63b93f.jpg)
 
 So this is a bit of free text, On Thursday I attended Ingram Experience 2016 in Adelaide.
 
@@ -31,4 +33,4 @@ It's a Trade show that's organised by the Distributor in the title. This post is
 I arrived on time and Attended several presentations on Office 365 deployment for Small Business... I learnt a lot of Micrsoft specific info but the true value was in engaging with the vendors and getting some information directly from the distributor and gaining a deeper understanding of the services that they provide.
 
 The real win was during a keynote presentation by Ian Elliot at the end entitled Marketing without Money. He's written a book Entitled Stop Bitching and Start Pitching... Once I've whipped The Grid into some kind of showcaseable state I'll write a more in depth review.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4e890d99-788e-484a-939a-e4c5342c324c.png)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/12ce484a5145a39f3a95d1f717c599b83cd084e1.png)
