@@ -6,8 +6,8 @@ isBasedOnUrl: 'http://download.microsoft.com/download/E/8/B/E8B5CEE5-9FF6-4419-B
 inLanguage: null
 keywords: []
 description: "Microsoft's Security Intelligence Report for July through to December 2015"
-datePublished: '2016-05-10T03:07:28.423Z'
-dateModified: '2016-05-10T03:06:45.356Z'
+datePublished: '2016-05-10T03:11:39.373Z'
+dateModified: '2016-05-10T03:11:30.452Z'
 author: []
 related: []
 app_links: []
@@ -25,5 +25,3 @@ _type: MediaObject
 
 ---
 Microsoft's Security Intelligence Report for July through to December 2015
-
-http://download.microsoft.com/download/E/8/B/E8B5CEE5-9FF6-4419-B7BF-698D2604E2B2/Microsoft\_Security\_Intelligence\_Report\_Volume\_20\_Key\_Findings\_Summary\_English.pdf
