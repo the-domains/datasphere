@@ -6,13 +6,13 @@ color:
     - '#31c0cf'
     - '#ffffff'
     - '#767b87'
-  brandStrength: 0.75
-  lightness: 0.125
-  rhythmicContrast: 0.25
-  saturation: 0.75
+  brandStrength: 0.837171
+  lightness: 1
+  rhythmicContrast: 0.524671
+  saturation: 0.494243
 cta: {}
-layout_spectrum: 0
+layout_spectrum: 1
 name: DataSphere
 opengraph: {}
 purpose: []
-typography_spectrum: 0.48956
+typography_spectrum: 0.815789
