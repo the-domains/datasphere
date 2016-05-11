@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'So this is a bit of free text, On Thursday I attended Ingram Experience 2016 in Adelaide.'
-datePublished: '2016-05-07T06:09:18.477Z'
-dateModified: '2016-05-07T06:09:13.134Z'
+datePublished: '2016-05-11T07:33:14.816Z'
+dateModified: '2016-05-11T07:33:07.906Z'
 title: ''
 author:
   - name: ''
