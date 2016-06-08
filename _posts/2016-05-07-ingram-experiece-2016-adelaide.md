@@ -7,19 +7,15 @@ keywords: []
 description: >-
   So this is a bit of free text, On Thursday I attended Ingram Experience 2016
   in Adelaide.
-datePublished: '2016-06-08T12:03:39.130Z'
-dateModified: '2016-05-11T07:34:50.783Z'
+datePublished: '2016-06-08T12:05:10.707Z'
+dateModified: '2016-06-08T12:03:46.500Z'
 title: ''
 author:
   - name: ''
     url: ''
 sourcePath: _posts/2016-05-07-ingram-experiece-2016-adelaide.md
 authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
+publisher: null
 starred: false
 url: ingram-experiece-2016-adelaide/index.html
 _type: Article
