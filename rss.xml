@@ -4,8 +4,15 @@
         <description><![CDATA[DataSphere]]></description>
         <link>http://datasphere-it.com.au/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 08 Jun 2016 12:02:49 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Jun 2016 12:03:41 GMT</lastBuildDate>
         <atom:link href="http://datasphere-it.com.au/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Ingram Experience 2016 Adelaide]]></title>
+            <description><![CDATA[<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/442bcbefb6669cad6682b5a9bc186059fe63b93f.jpg" alt="" title="">]]></description>
+            <link>http://datasphere-it.com.au/ingram-experiece-2016-adelaide/index.html</link>
+            <guid isPermaLink="false">fdff6d30-e71d-4bfa-9ca2-ea6c15545a66</guid>
+            <pubDate>Wed, 08 Jun 2016 12:03:39 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[AWS endures extended outage in Australia]]></title>
             <description><![CDATA[<article><h1>AWS endures extended outage in Australia</h1><p>Sysadmins in Sydney had a horrible Sunday, while their CEOs bent their attention to wondering why their Foxtel Rugby sportscasts weren't working. The Amazon Web Services AWS "power event" AP-SOUTHEAST-2 Region was almost certainly caused by a massive storm system that ran from Brisbane to the NSW South Coast, leading to a weekend of widespread flooding, blocked road and coastal erosion.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/bb6dc30dde8c94446745a2096bc4ac24674ccc87.jpg"></article>]]></description>
@@ -19,13 +26,6 @@
             <link>http://blogs.vmware.com/vsphere/2016/05/goodbye-vsphere-client-for-windows-c-hello-html5.html</link>
             <guid isPermaLink="false">eb5465a6-c015-4b74-b126-d9e1a7e0f1d6</guid>
             <pubDate>Wed, 08 Jun 2016 11:10:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Ingram Experience 2016]]></title>
-            <description><![CDATA[<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/442bcbefb6669cad6682b5a9bc186059fe63b93f.jpg" alt="" title="">]]></description>
-            <link>http://datasphere-it.com.au/ingram-experiece-2016-adelaide/index.html</link>
-            <guid isPermaLink="false">fdff6d30-e71d-4bfa-9ca2-ea6c15545a66</guid>
-            <pubDate>Wed, 11 May 2016 07:33:14 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Microsoft SIR Key Findings]]></title>
