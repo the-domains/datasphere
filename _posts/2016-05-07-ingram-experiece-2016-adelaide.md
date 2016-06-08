@@ -4,9 +4,11 @@ hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
-description: 'So this is a bit of free text, On Thursday I attended Ingram Experience 2016 in Adelaide.'
-datePublished: '2016-05-11T07:33:14.816Z'
-dateModified: '2016-05-11T07:33:07.906Z'
+description: >-
+  So this is a bit of free text, On Thursday I attended Ingram Experience 2016
+  in Adelaide.
+datePublished: '2016-06-08T12:03:39.130Z'
+dateModified: '2016-05-11T07:34:50.783Z'
 title: ''
 author:
   - name: ''
