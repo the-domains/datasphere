@@ -7,8 +7,8 @@ keywords: []
 description: >-
   So this is a bit of free text, On Thursday I attended Ingram Experience 2016
   in Adelaide.
-datePublished: '2016-06-08T12:05:10.707Z'
-dateModified: '2016-06-08T12:03:46.500Z'
+datePublished: '2016-06-08T12:13:13.671Z'
+dateModified: '2016-06-08T12:13:10.164Z'
 title: ''
 author:
   - name: ''
