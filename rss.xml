@@ -4,15 +4,8 @@
         <description><![CDATA[DataSphere]]></description>
         <link>http://datasphere-it.com.au/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 08 Jun 2016 12:15:24 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Jun 2016 04:19:22 GMT</lastBuildDate>
         <atom:link href="http://datasphere-it.com.au/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[Ingram Experience 2016 - Adelaide]]></title>
-            <description><![CDATA[<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/442bcbefb6669cad6682b5a9bc186059fe63b93f.jpg" alt="" title="">]]></description>
-            <link>http://datasphere-it.com.au/ingram-experiece-2016-adelaide/index.html</link>
-            <guid isPermaLink="false">fdff6d30-e71d-4bfa-9ca2-ea6c15545a66</guid>
-            <pubDate>Wed, 08 Jun 2016 12:15:20 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Goodbye vSphere Client for Windows (C#) - Hello HTML5 - VMware vSphere Blog]]></title>
             <description><![CDATA[<article><h1>Goodbye vSphere Client for Windows (C#) - Hello HTML5 - VMware vSphere Blog</h1><p>Today we have two important announcements. First, the C# client (AKA Desktop Client/thick client/vSphere Client for Windows) will not be available for the next version of vSphere. Current versions of vSphere (6.0, 5.5) will not be affected, as those will follow the standard support period.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1d56fe52e5184d0a53eebe3f8edb3772ce2fb3a5.png"></article>]]></description>
